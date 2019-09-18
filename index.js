@@ -13,7 +13,7 @@ function greeting() {
 }
 
 
-function greetSpecialGuest(specialGuest) {
+function greetSpecialGuest() {
   console.log(greetSpecialGuest);
 }
 
