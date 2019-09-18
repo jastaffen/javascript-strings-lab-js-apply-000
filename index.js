@@ -18,5 +18,5 @@ function greetSpecialGuest() {
 }
 
 function conversation(){
-  console.log("Let's talk about ${topic}");
+  console.log("Let's talk about ${topic}.");
 }
